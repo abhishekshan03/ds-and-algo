@@ -1,4 +1,4 @@
-package revelcorps.topics.trees;
+package trees;
 
 import java.util.Queue;
 import java.util.Scanner;

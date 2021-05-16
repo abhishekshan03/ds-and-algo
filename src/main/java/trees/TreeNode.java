@@ -1,4 +1,4 @@
-package revelcorps.topics.trees;
+package trees;
 
 public class TreeNode {
 

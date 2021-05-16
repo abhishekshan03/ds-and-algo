@@ -1,4 +1,4 @@
-package revelcorps.topics.trees;
+package trees;
 
 import java.io.*;
 import java.util.*;
