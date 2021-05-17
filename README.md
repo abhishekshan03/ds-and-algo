@@ -1,3 +1,7 @@
+Most of us struggle quiet a lot while perparing for interviews and specifically in the problem solving part.
+There are many things to learn and its really gets confusing. This is my mere attempt to organize steps to 
+parpare for such events. I will be keeping this updated with refinements as the time passes.
+
 Place to gather all the basic programs written in order to master the knowledge of datastructures and programs.
 
 All the problems could be classified on the basis of datastructure.
