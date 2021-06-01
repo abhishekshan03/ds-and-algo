@@ -1,4 +1,4 @@
-package strings;
+package ctci.linkedlist;
 
 public class TestLinkedRecurse {
 

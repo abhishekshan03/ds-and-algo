@@ -1,4 +1,4 @@
-package strings;
+package hackerrank.strings;
 
 public class AlternatingChars {
     static int alternatingCharacters(String s) {
