@@ -1,4 +1,4 @@
-package trees;
+package datastructures.trees;
 
 import java.util.Queue;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package trees;
+package datastructures.trees;
 
 public class TreeDemo {
     public static void main(String[] args) {

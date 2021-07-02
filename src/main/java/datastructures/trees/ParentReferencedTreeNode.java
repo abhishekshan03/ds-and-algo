@@ -1,4 +1,4 @@
-package trees;
+package datastructures.trees;
 
 public class ParentReferencedTreeNode extends TreeNode {
     protected ParentReferencedTreeNode  parent;
