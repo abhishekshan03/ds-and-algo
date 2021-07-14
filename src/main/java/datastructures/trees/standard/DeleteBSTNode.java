@@ -26,6 +26,7 @@ public class DeleteBSTNode {
                     root.setValue(tmp.getValue());
                     root.setRightChild(deleteNode(root.getRightChild(), tmp.getValue()));
                 }
+
             }
         }
         return root;
