@@ -9,4 +9,12 @@ public class LinkedListUtils {
         }
         System.out.print("NULL");
     }
+
+    public static void prettyPrintList (LinkedNodeStr head) {
+        while (head != null) {
+            System.out.print(String.format(listFmt, head.getData()));
+            head = head.getNext();
+        }
+        System.out.print("NULL");
+    }
 }
